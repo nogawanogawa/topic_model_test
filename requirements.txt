@@ -1,0 +1,8 @@
+gensim
+sudachipy
+wordcloud
+numpy
+pandas
+matplotlib
+seaborn
+pyLDAvis
